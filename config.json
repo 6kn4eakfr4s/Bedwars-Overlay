@@ -1,0 +1,12 @@
+{
+  "HypixelAPI1": "",
+  "HypixelAPI2": "",
+  "headers": [
+    "IGN",
+    "Nick?",
+    "Star",
+    "FKDR",
+    "WS",
+    "Online?"
+  ]
+}
